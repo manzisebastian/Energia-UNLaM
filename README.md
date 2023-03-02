@@ -8,6 +8,6 @@ La relevancia del sector de la economía de la energía, tanto en Argentina como
 
 Cada uno de los archivos del presente repositorio contiene el código para obtener, procesar y analizar los datos de relevantes indicadores relacionados al sector de la economía de la energía. Asimismo, cada archivo también contiene el código necesario para replicar cada uno de las figuras que acompañan el informe.
 
-En particular, son archivos de este repositorio: el presente archivo `README.md`, 9 archivos de Jupyter notebook (`.ipynb`) y un archivo de LaTeX (`.tex`) utilizado para la compilación final del documento. 
+En particular, son archivos de este repositorio: el presente archivo `README.md` y 9 archivos de Jupyter notebook (`.ipynb`).
 
 La primera publicación del Monitor de la Actividad Energética fue en marzo del año 2022. La publicación no será discontinuada, y todos los códigos utilizados hasta el momento (y sobre los cuales se basarán próximas ediciones) se encuentran disponibles en este repositorio.
