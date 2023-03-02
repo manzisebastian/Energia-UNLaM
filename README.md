@@ -10,4 +10,4 @@ Cada uno de los archivos del presente repositorio contiene el código para obten
 
 En particular, son archivos de este repositorio: el presente archivo `README.md` y 9 archivos de Jupyter notebook (`.ipynb`).
 
-La primera publicación del Monitor de la Actividad Energética fue en marzo del año 2022. La publicación no será discontinuada, y todos los códigos utilizados hasta el momento (y sobre los cuales se basarán próximas ediciones) se encuentran disponibles en este repositorio.
+La primera publicación del Monitor de la Actividad Energética fue en marzo del año 2022. A partir del mes de febrero del año 2023, el autor de este repositorio ( [Sebastián Manzi](https://www.linkedin.com/in/manzisebastian/) ) deja de formar parte del proyecto. Sin embargo, la publicación no será discontinuada, sino que continuará con Sebastián Scheimberg como coordinador y Agustín Rio como colaborador. Todos los códigos utilizados hasta el momento (y sobre los cuales se basarán próximas ediciones) se encuentran disponibles en este repositorio.
