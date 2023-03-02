@@ -2,8 +2,6 @@
 
 ## Monitor de la Actividad Energética
 
-***Español***
-
 El siguiente repositorio contiene los códigos utilizados para la elaboración del Monitor de la Actividad Energética, publicado mensualmente por la Universidad de La Matanza (UNLaM).
 
 La relevancia del sector de la economía de la energía, tanto en Argentina como internacionalmente, ha suscitado una multiplicidad de análisis en torno a las políticas a adoptar y a la evolución de indicadores. Así, la publicación del Monitor nació con el objetivo de caracterizar la situación energética nacional e internacional a partir del procesamiento, análisis y visualización de datos. 
